@@ -1,0 +1,16 @@
+name: papasecaXD
+main: polo.pro.papasecalloron.Main
+version: 1.0
+author: Polo_1245
+
+commands:
+  xd:
+    description: xd
+  D:
+    description:   :D
+  C:
+    description:  :C
+  enojado:
+    description:   enojado
+  ayuda:
+    description:     ayuda
